@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paras-mehra/Tic-Tac-Toe/static/css/main.d3abc6b4.css",
+    "main.js": "/paras-mehra/Tic-Tac-Toe/static/js/main.9d1f300a.js",
+    "index.html": "/paras-mehra/Tic-Tac-Toe/index.html",
+    "main.d3abc6b4.css.map": "/paras-mehra/Tic-Tac-Toe/static/css/main.d3abc6b4.css.map",
+    "main.9d1f300a.js.map": "/paras-mehra/Tic-Tac-Toe/static/js/main.9d1f300a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3abc6b4.css",
+    "static/js/main.9d1f300a.js"
+  ]
+}
