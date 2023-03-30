@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Live Demo - https://paras-mehra.github.io/tic-tac-toe/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
